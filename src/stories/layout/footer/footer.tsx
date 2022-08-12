@@ -1,5 +1,6 @@
-const Footer = (): JSX.Element => {
-    return <footer>footer</footer>;
-};
+import React from "react";
+import Image from "next/image";
 
-export default Footer;
+export default function Footer() {
+    return <footer></footer>;
+}

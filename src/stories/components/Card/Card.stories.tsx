@@ -5,7 +5,7 @@ import Card from "./Card";
 
 export default {
     component: Card,
-    title: "Card",
+    title: "Cards/Card",
 };
 
 const Template: ComponentStory<typeof Card> = (args) => <Card {...args} />;
